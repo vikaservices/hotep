@@ -1,8 +1,8 @@
 #statement
-	@include tile
+	@include tile-statement
 
 	.wrapper
-		@include wrapper
+		@include wrapper-statement
 
 		.blurb
 			width: 45%
@@ -21,11 +21,11 @@
 				max-width: 400px
 				margin-bottom: 30px
 
-		.featured
-			width: 55%
+		.flex-video-wrap
+	    max-width: 640px
+	    display: inline-block
+	    width: 100%
 
-			img
-				width: 100%
 
 		@media (max-width: 1023px)
 			.blurb
@@ -33,16 +33,20 @@
 				width: 100%
 				flex-direction: column
 				align-items: flex-end
-				text-align: right
+				text-align: center
 
 				&:after
 					display: none
 
+				h2
+					margin: 0 auto 30px auto
+
 				p
 					margin-bottom: 0
+					max-width: 100%
 
 			.featured
-				display: none
+				margin: 0 auto
 
 		@media (max-width: 640px)
 			.blurb
