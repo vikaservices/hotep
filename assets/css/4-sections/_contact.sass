@@ -1,22 +1,22 @@
 #contact
 	@include tile
-	
+
 	.wrapper
 		@include wrapper
 		flex-direction: column
 		justify-content: center
-		
+
 		.blurb
 			max-width: 950px
 			margin-top: -45px
 			text-align: center
-			
+
 			h2
 				@include heading
-				
+
 			p
 				margin-bottom: 45px
-				
+
 		form
 			position: relative
 			display: flex
@@ -24,8 +24,8 @@
 			flex-wrap: wrap
 			justify-content: space-between
 			color: $black
-			font-family: $raleway
-						
+			font-family: $opensans
+
 			input[type="email"],
 			input[type="text"]
 				width: 42%
@@ -33,14 +33,14 @@
 				padding: 0 15px
 				border: 1px solid $black
 				border-radius: 0
-				background: transparent
-				
+				background-color: $light-grey
+
 				&::placeholder
 					color: $black
-				
+
 				&:focus
 					outline: none
-					
+
 			textarea
 				width: 100%
 				height: 90px
@@ -48,15 +48,15 @@
 				padding: 10px 15px
 				border: 1px solid $black
 				border-radius: 0
-				background: transparent
 				resize: none
-				
+				background-color: $light-grey
+
 				&::placeholder
 					color: $black
-					
+
 				&:focus
 					outline: none
-				
+
 			input[type="submit"]
 				width: 100%
 				height: 40px
@@ -66,22 +66,28 @@
 				border: none
 				border-radius: 0
 				background-color: $black
-				
+
 			@media (max-width: 640px)
 				input[type="email"],
 				input[type="text"]
 					width: 100%
 					margin-bottom: 10px
-					
+
 				textarea
 					margin: 0 0 10px 0
-						
+
 	.copyright
 		position: absolute
 		bottom: 10px
 		left: 50%
 		transform: translate(-50%)
 		margin-bottom: 0
-		font-family: $raleway
+		font-family: $opensans
 		font-size: 12px
-		
+
+		a
+			text-decoration: none
+			color: $light-grey
+
+		a:hover
+			color: lighten($light-grey, 20%)
