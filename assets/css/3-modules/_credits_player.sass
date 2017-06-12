@@ -1,0 +1,37 @@
+.credits-player
+  position: absolute
+  top: 65%
+  left: 50%
+  transform: translate(-50%, -65%)
+  height: 350px
+  width: 300px
+  overflow: hidden
+
+@keyframes scroll
+  from {top: 350px;}
+  to {top: calc(-100% - 350px);}
+
+.credits-player-animate
+  animation-name: scroll
+  animation-duration: 30s
+  animation-timing-function: linear
+  animation-iteration-count: infinite
+
+.credits-player ul
+  position: absolute
+  list-style: none
+  top: 350px
+
+.credits-player ul li
+  line-height: 1.2
+  margin-top: 5px
+  color: $white
+  font-family: $opensans
+
+.credits-player ul li.credits-player-title
+  font-size: 20
+  text-align: center
+  margin-bottom: 15px
+
+.credits-player ul li.credits-player-role
+  margin-top: 15px
