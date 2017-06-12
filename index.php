@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Apollo</title>
+    <title>Hotep</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="buckymaler.com">
-    <link rel="stylesheet" href="assets/css/testi.css">
-    <link rel="stylesheet" href="assets/css/bg-video.css">
+    <link rel="stylesheet" href="assets/css/main.min.css">
   </head>
   <body>
 
@@ -18,13 +17,13 @@
         </div>
         <ul class="nav">
           <li><a href="#hotep">Hotep</a></li>
-          <li><a href="#featured">About</a></li>
+          <li><a href="#statement">About</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </header>
       <div class="wrapper">
         <div class="welcome">
-          <h1>HOTEP Know thyself</h1>
+          <h1>HOTEP Know thy self</h1>
           <p>Art film / Deep questions about life, dreams, loss and death / A journey of imagination</p>
           </div>
       </div>
@@ -54,8 +53,10 @@
           <h2>A statement by Petri Salo and Axel Sutinen</h2>
           <p>As visual-artists this is our first independent collaboration working with the format of moving imagery and sound. The process has taken over 2 years evolving and undergoing many changes. It grew as an organic process to become a dream-like exploration inspired by the Egyptian Book of the Dead. A loose story-line follows a transformation experienced by a young woman and her family.</p>
         </div>
-        <div class="featured">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/uty3SbYJpUs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        <div class="flex-video-wrap">
+          <div class="flex-video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/uty3SbYJpUs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
     </section>
@@ -106,8 +107,8 @@
     <section id="contact">
       <div class="wrapper">
         <div class="blurb">
-          <h2><strong>Say</strong> Hello</h2>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+          <h2>Contact</h2>
+          <p>This movie on post-production stage and will released by the end of 2017. Total lenght 35min. Format HD-video.</p>
         </div>
         <form>
           <input type="email" placeholder="Your Email">
@@ -116,11 +117,11 @@
           <input type="submit" value="Send Message">
         </form>
       </div>
-      <p class="copyright">&copy; Apollo 2016</p>
+      <p class="copyright"><a href="http://www.casadasmusas.com">&copy; Casa das Musas 2017</a></p>
     </section>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
-    <script src="assets/js/functions-dist.js"></script>
+    <script src="assets/js/functions.min.js"></script>
   </body>
 </html>
