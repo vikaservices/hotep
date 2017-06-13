@@ -110,10 +110,10 @@
           <h2>Contact</h2>
           <p>This movie on post-production stage and will released by the end of 2017. Total lenght 35min. Format HD-video. For all enquiries contact Petri Salo or Axel Sutinen.</p>
         </div>
-        <form>
-          <input type="email" placeholder="Your Email">
-          <input type="text" placeholder="Subject">
-          <textarea placeholder="Message"></textarea>
+        <form name="contactForm" action="https://formspree.io/juturune@gmail.com" method="POST" onsubmit="return validateForm()">
+          <input type="email" placeholder="Your Email" name="replyto" required>
+          <input type="text" placeholder="Subject" name="subject">
+          <textarea placeholder="Message" name="message" required></textarea>
           <input type="submit" value="Send Message">
         </form>
       </div>

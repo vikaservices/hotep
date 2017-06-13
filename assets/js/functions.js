@@ -1,5 +1,17 @@
 var credits_scrolling = false;
 
+function validateForm() {
+	var email = document.forms['contactForm']['replyto'].value;
+	var re = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
+	if( re.test(email) ) {
+		return true;
+	} else {
+		alert("You need to give a valid email address");
+		return false;
+	}
+}
+
+
 $( document ).ready(function() {
 
 function checkStartCreditScrolling() {
