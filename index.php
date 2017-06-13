@@ -13,7 +13,7 @@
     <section id="hotep">
       <header>
         <div class="nav-toggle">
-          <p>Menu</p><span></span>
+          <p>&nbsp;</p><span></span>
         </div>
         <ul class="nav">
           <li><a href="#hotep">Hotep</a></li>
@@ -23,7 +23,7 @@
       </header>
       <div class="wrapper">
         <div class="welcome">
-          <h1>HOTEP Know thy self</h1>
+          <h1><b>HOTEP</b> Know thy self</h1>
           <p>Art film / Deep questions about life, dreams, loss and death / A journey of imagination</p>
           </div>
       </div>
@@ -50,7 +50,7 @@
     <section id="statement">
       <div class="wrapper">
         <div class="blurb">
-          <h2>A statement by Petri Salo and Axel Sutinen</h2>
+          <h4>A statement by Petri Salo and Axel Sutinen</h4>
           <p>As visual-artists this is our first independent collaboration working with the format of moving imagery and sound. The process has taken over 2 years evolving and undergoing many changes. It grew as an organic process to become a dream-like exploration inspired by the Egyptian Book of the Dead. A loose story-line follows a transformation experienced by a young woman and her family.</p>
         </div>
         <div class="flex-video-wrap">
@@ -108,7 +108,7 @@
       <div class="wrapper">
         <div class="blurb">
           <h2>Contact</h2>
-          <p>This movie on post-production stage and will released by the end of 2017. Total lenght 35min. Format HD-video.</p>
+          <p>This movie on post-production stage and will released by the end of 2017. Total lenght 35min. Format HD-video. For all enquiries contact Petri Salo or Axel Sutinen.</p>
         </div>
         <form>
           <input type="email" placeholder="Your Email">
