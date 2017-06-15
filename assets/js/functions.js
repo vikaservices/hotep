@@ -34,7 +34,7 @@ $(document).on('scroll', function(){
 })
 
 function startCreditsPlayer() {
-	console.log("start anim");
+	//console.log("start anim");
 	$('.credits-player ul').addClass('credits-player-animate')
 }
 
