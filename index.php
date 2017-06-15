@@ -52,6 +52,7 @@
         <div class="blurb">
           <h4>A statement by Petri Salo and Axel Sutinen</h4>
           <p>As visual-artists this is our first independent collaboration working with the format of moving imagery and sound. The process has taken over 2 years evolving and undergoing many changes. It grew as an organic process to become a dream-like exploration inspired by the Egyptian Book of the Dead. A loose story-line follows a transformation experienced by a young woman and her family.</p>
+          <p>Watch the trailer (Film will be completed 2017)</p>
         </div>
         <div class="flex-video-wrap">
           <div class="flex-video">
@@ -83,22 +84,59 @@
             <li>Very special thank you is due to Andrew Kramer for his generous help &amp; support.</li>
             <li>Also the special cast members and many people giving their support with their talents making this a unique work of art.</li>
             <li>Thank you very much.</li>
-            <li class="credits-player-role"><strong>Starring</strong></li>
-            <li>Steve Delgado</li>
+            <li class="credits-player-role"><strong>Cast</strong></li>
             <li>Kaja Sand</li>
-            <li>Peter Delgado</li>
+            <li>Steve Remigio Delgado</li>
+            <li>Peter Sand-Delgado</li>
+            <li>Tuulikki Salo</li>
+            <li>Pedro Bosque</li>
+            <li>Paula Santos-Tang</li>
+            <li>Jenny Tang</li>
+            <li>Axel Sutinen</li>
+            <li>Susana Con&ccedil;alo</li>
+            <li>Carlos Saramago</li>
+
+            <li class="credits-player-role"><strong>Written and Directed by</strong></li>
+            <li>Petri Salo &amp; Axel Sutinen</li>
+
+            <li class="credits-player-role"><strong>Editing, Post-Production, Visual Effects, Sound Effects</strong></li>
+            <li>Rui Almeida</li>
+
+            <li class="credits-player-role"><strong>Photography</strong></li>
+            <li>Petri Salo</li>
+            <li>Rui Almeida</li>
+            <li>Axel Sutinen</li>
+
+            <li class="credits-player-role"><strong>Still Photography</strong></li>
+            <li>Rui Almeida</li>
+            <li>Kari Laasonen</li>
+
+            <li class="credits-player-role"><strong>Music</strong></li>
+            <li>Quin-ze&acute;</li>
+
+            <li class="credits-player-role"><strong>Theme Song</strong></li>
+            <li>Vieni Vieni sung by Holger Knape</li>
+
+            <li class="credits-player-role"><strong>Voice-overs</strong></li>
+            <li>Anna Eriksson</li>
+            <li>Steve Remigio Delgado</li>
+            <li>Axel Sutinen</li>
+
+            <li class="credits-player-role"><strong>Model-Making</strong></li>
+            <li>Tamsin Murray</li>
+            <li>Andrew Kramer</li>
             <li>Petri Salo</li>
             <li>Axel Sutinen</li>
-            <li>Susana Concalo</li>
-            <li>Carlos Saramago</li>
-            <li>Paula Santos</li>
-            <li class="credits-player-role"><strong>Cinematography</strong></li>
-            <li>Petri Salo</li>
-            <li>Rui Almeida</li>
-            <li class="credits-player-role"><strong>Special VFX</strong></li>
-            <li>Rui Almeida</li>
-            <li class="credits-player-role"><strong>Editor</strong></li>
-            <li>Rui Almeida</li>
+            <li>Aki Salminen</li>
+
+            <li class="credits-player-role"><strong>Source of inspiration</strong></li>
+            <li>The Ancient Egyptian Book of the Dead</li>
+
+            <li class="credits-player-role"><strong>Special thanks to</strong></li>
+            <li>Anna &amp; Matti</li>
+            <li>Tuulikki &amp; Unto Salo</li>
+            <li>Alma &amp; Alberto Riletti</li>
+            <li>Cafe Do Mercado</li>
           </ul>
         </div>
       </div>
@@ -108,7 +146,7 @@
       <div class="wrapper">
         <div class="blurb">
           <h2>Contact</h2>
-          <p>This movie on post-production stage and will released by the end of 2017. Total lenght 35min. Format HD-video. For all enquiries contact Petri Salo or Axel Sutinen.</p>
+          <p>This movie is on post-production stage and will released by the end of 2017. Total lenght will be 35min. For all enquiries contact Petri Salo or Axel Sutinen.</p>
         </div>
         <form name="contactForm" action="https://formspree.io/juturune@gmail.com" method="POST" onsubmit="return validateForm()">
           <input type="email" placeholder="Your Email" name="replyto" required>

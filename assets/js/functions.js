@@ -19,7 +19,7 @@ function checkStartCreditScrolling() {
 	var d = $(window).scrollTop();
 	var w = $(window).height();
 
-	console.log("scroll: " + (d + (w-w/4)) + " : " + e.offset().top );
+	//console.log("scroll: " + (d + (w-w/4)) + " : " + e.offset().top );
 
 	if( !credits_scrolling && ((d + (w-w/4)) > e.offset().top) ) {
 		// start credits player when it's scrolled 1/4 of the window height
