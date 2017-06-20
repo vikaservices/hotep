@@ -111,8 +111,11 @@
             <li>Rui Almeida</li>
             <li>Kari Laasonen</li>
 
+            <li class="credits-player-role"><strong>Production Design &amp; Set Design</strong></li>
+            <li>Petri Salo &amp; Axel Sutinen</li>
+
             <li class="credits-player-role"><strong>Music</strong></li>
-            <li>Quin-ze&acute; Grilo</li> 
+            <li>Quim-Z&eacute; Grilo</li>
 
             <li class="credits-player-role"><strong>Theme Song</strong></li>
             <li>Vieni Vieni sung by Holger Knape</li>
