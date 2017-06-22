@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="buckymaler.com">
     <link rel="stylesheet" href="assets/css/main.min.css">
   </head>
   <body>
@@ -28,7 +27,7 @@
           </div>
       </div>
       <video class="bg-video" autoplay loop muted>
-        <source src="videos/HOTEP_A2_2.mp4" type="video/mp4">
+        <source src="assets/videos/HOTEP_A2_2.mp4" type="video/mp4">
       </video>
     </section>
 
@@ -36,16 +35,6 @@
       <div class="wrapper">
       </div>
     </section>
-
-<!--
-    <section id="full-slide">
-      <ul class="banner">
-        <li class="active"></li>
-        <li></li>
-        <li></li>
-      </ul><i class="icon-chevron-thin-left prev"></i><i class="icon-chevron-thin-right next"></i>
-    </section>
--->
 
     <section id="statement">
       <div class="wrapper">
@@ -61,19 +50,6 @@
         </div>
       </div>
     </section>
-
-<!--
-    <section id="three-slide">
-      <div class="wrapper">
-        <ul class="slider">
-          <li class="back"><img src="assets/img/three-slide/thumb-1.jpg"></li>
-          <li class="current"><img src="assets/img/three-slide/thumb-2.jpg"></li>
-          <li class="front"><img src="assets/img/three-slide/thumb-3.jpg"></li>
-          <li><img src="assets/img/three-slide/thumb-4.jpg"></li>
-        </ul>
-      </div><i class="icon-chevron-thin-left prev"></i><i class="icon-chevron-thin-right next"></i>
-    </section>
--->
 
     <section id="credits">
       <div class="wrapper">
@@ -151,7 +127,7 @@
           <h2>Contact</h2>
           <p>This movie is on post-production stage and will released by the end of 2017. Total lenght will be 35min. For all enquiries contact Petri Salo or Axel Sutinen. See <a href="http://casadasmusas.com">Casa da Musas</a> for more about their art.</p>
         </div>
-        <form name="contactForm" action="https://formspree.io/jukka.turunen@vikaservices.fi" method="POST" onsubmit="return validateForm()">
+        <form name="contactForm" action="https://formspree.io/petrisalo_artist@yahoo.com" method="POST" onsubmit="return validateForm()">
           <input type="email" placeholder="Your Email" name="replyto" required>
           <input type="text" placeholder="Subject" name="subject">
           <textarea placeholder="Message" name="message" required></textarea>
