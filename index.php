@@ -5,9 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta property="og:title" content="Art film / Deep questions about life, dreams, loss and death / A journey of imagination">
+    <meta property="og:title" content="Hotep Know thy self">
+    <meta property="og:description" content="Art film / Deep questions about life, dreams, loss and death / A journey of imagination">
     <meta property="og:image" content="http://casadasmusas.com/hotepknowthyself/assets/img/hotep.jpg">
-    <meta property="og:url" content="http://casadasmusas.com/hotepknowthyself">
+    <meta property="og:url" content="http://casadasmusas.com/hotepknowthyself/">
     <meta property="og:site_name" content="Hotep Know thy self">
     <link rel="stylesheet" href="assets/css/main.min.css">
     <link rel="icon" href="cdm.ico">
