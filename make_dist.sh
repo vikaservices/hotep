@@ -13,6 +13,16 @@ else
   exit -1
 fi
 
+echo "cp ./cdm.ico ./dist/"
+cp ./cdm.ico ./dist/
+if [ $? -eq 0 ]
+then
+  echo "===>  OK"
+else
+  echo "==> FAILED"
+  exit -1
+fi
+
 d=./dist/assets/css/
 file=./assets/css/main.min.css
 echo "cp -R $file $d"
