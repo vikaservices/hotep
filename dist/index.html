@@ -27,7 +27,7 @@
       </header>
       <div class="wrapper">
         <div class="welcome">
-          <h1><b>HOTEP</b> Know thy self</h1>
+          <h1><b>HOTEP</b> &dash; Know Thyself</h1>
           <p>Art film / Deep questions about life, dreams, loss and death / A journey of imagination</p>
           </div>
       </div>
