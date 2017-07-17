@@ -46,7 +46,7 @@
         <div class="blurb">
           <h4>A statement by Petri Salo and Axel Sutinen</h4>
           <p>As visual-artists this is our first independent collaboration working with the format of moving imagery and sound. The process has taken over 2 years evolving and undergoing many changes. It grew as an organic process to become a dream-like exploration inspired by the Egyptian Book of the Dead. A loose story-line follows a transformation experienced by a young woman and her family.</p>
-          <p>Watch the trailer (Film will be completed 2017)</p>
+          <p>Watch the trailer (Film will be completed early 2018)</p>
         </div>
         <div class="flex-video-wrap">
           <div class="flex-video">
